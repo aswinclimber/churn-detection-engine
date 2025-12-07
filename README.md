@@ -76,10 +76,8 @@ streamlit run app.py
 ---
 
 ## 📸 App Screenshot
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/360feab0-5251-4a1d-8cf3-07eb2b7b861b" />
 
-*(Add screenshot here if available)*
-
----z
 
 ## 📁 Dataset
 
