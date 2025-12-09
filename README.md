@@ -1,4 +1,4 @@
-# 📱 Telecom Customer Churn Prediction
+#  Telecom Customer Churn Prediction
 
 **End-to-End Machine Learning Project**
 
@@ -7,7 +7,7 @@ It includes data visualization, model training, and a Streamlit web app for real
 
 ---
 
-## 🚀 Project Structure
+##  Project Structure
 
 ```
 ├── ada_bundle.pkl                # Final trained ML model (AdaBoost bundle)
@@ -19,16 +19,16 @@ It includes data visualization, model training, and a Streamlit web app for real
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Telecom companies lose revenue when customers leave ("churn").
 This project helps **predict churn** early so companies can take action.
 
 ---
 
-## 📊 Features
+##  Features
 
-### ✔️ Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 
 * Customer demographics
 * Contract & service usage
@@ -36,13 +36,13 @@ This project helps **predict churn** early so companies can take action.
 * Churn distribution
 * Visualizations using Matplotlib & Seaborn
 
-### ✔️ Machine Learning
+###  Machine Learning
 
 * Model: **AdaBoost Classifier**
 * Preprocessing: Label Encoding, Scaling
 * Evaluation: Accuracy, Confusion Matrix, Precision & Recall
 
-### ✔️ Deployment
+###  Deployment
 
 * Interactive **Streamlit web app**
 * User-friendly UI
@@ -50,7 +50,7 @@ This project helps **predict churn** early so companies can take action.
 
 ---
 
-## 🧠 Model
+##  Model
 
 The final AdaBoost model is saved as:
 **`ada_bundle.pkl`**
@@ -59,15 +59,15 @@ Loaded in `app.py` for prediction.
 
 ---
 
-## 🖥️ How to Run Locally
+##  How to Run Locally
 
-### 1️⃣ Install dependencies
+###  Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Run the Streamlit App
+###  Run the Streamlit App
 
 ```
 streamlit run app.py
@@ -75,11 +75,11 @@ streamlit run app.py
 
 ---
 
-## 📸 App Screenshot
+##  App Screenshot
 <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/360feab0-5251-4a1d-8cf3-07eb2b7b861b" />
 
 
-## 📁 Dataset
+##  Dataset
 
 Dataset used: **Telco-Customer-Churn.csv**
 Contains customer attributes like:
@@ -93,7 +93,7 @@ Contains customer attributes like:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -103,7 +103,7 @@ Contains customer attributes like:
 
 ---
 
-## 🌟 Future Improvements
+## Future Improvements
 
 * Hyperparameter tuning
 * Add more ML models (XGBoost, Catboost)
@@ -112,12 +112,9 @@ Contains customer attributes like:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## ⭐ If you like this project, give it a star!
-
-Your support encourages more projects like this.
